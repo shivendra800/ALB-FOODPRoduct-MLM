@@ -1,0 +1,1 @@
+[03-Jul-2023 10:01:41 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 12599296 bytes) in /home/albfoodproducts/public_html/storage/framework/views/6e4269f5d093cbc4ce6668a2449a97c411eafef3.php on line 221
